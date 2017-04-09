@@ -1,0 +1,7 @@
+#Thu Jan 12 10:29:52 AST 2017
+base.0=C\:\\Users\\mohammad\\Desktop\\ElectronicLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_60ccfb16b8232d12d1a97136c711fbc26d1f4ec8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\mohammad\\Desktop\\ElectronicLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_824cd08a22c1d7e421a81454ead2f1261293902d\\classes.dex
+base.1=C\:\\Users\\mohammad\\Desktop\\ElectronicLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_824cd08a22c1d7e421a81454ead2f1261293902d
+file.0=C\:\\Users\\mohammad\\Desktop\\ElectronicLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_60ccfb16b8232d12d1a97136c711fbc26d1f4ec8\\classes.dex

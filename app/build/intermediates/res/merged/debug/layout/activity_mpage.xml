@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_mpage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dvb.electroniclibrary.Mpage"
+    android:background="@color/colorPrimary">
+
+    <Spinner
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/M_section"
+        android:layout_x="30dp"
+        android:layout_y="70dp"
+        />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text=""
+        android:ems="10"
+        android:layout_x="30dp"
+        android:layout_y="30dp"
+        android:id="@+id/M_name"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:text="القسم"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="311dp"
+        android:layout_y="70dp"
+        android:id="@+id/Section"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="رقم العضوية"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="270dp"
+        android:layout_y="110dp"
+        android:id="@+id/M_id"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_x="30dp"
+        android:layout_y="110dp"
+        android:id="@+id/M_ID"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:text="البريد الالكتروني"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="255dp"
+        android:layout_y="150dp"
+        android:id="@+id/M_mail"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:layout_x="30dp"
+        android:layout_y="150dp"
+        android:id="@+id/M_Mail"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:text="الكلية"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="301dp"
+        android:layout_y="190dp"
+        android:id="@+id/M_collage"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id ="@+id/M_Collage"
+        android:layout_x="30dp"
+        android:layout_y="190dp"
+
+        />
+    <Button
+        android:text="حفظ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="236dp"
+        android:layout_y="330dp"
+        android:id="@+id/save"
+        android:background="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Button
+        android:text="تعديل"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="68dp"
+        android:layout_y="330dp"
+        android:id="@+id/Edit"
+        android:background="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="اسم الدكتور"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="270dp"
+        android:layout_y="32dp"
+        android:id="@+id/Mname"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+</AbsoluteLayout>

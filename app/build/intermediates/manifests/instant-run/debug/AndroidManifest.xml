@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dvb.electroniclibrary"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.dvb.electroniclibrary.Login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.dvb.electroniclibrary.Login1" />
+        <activity android:name="com.dvb.electroniclibrary.MLogin" />
+        <activity android:name="com.dvb.electroniclibrary.SLogin" />
+        <activity android:name="com.dvb.electroniclibrary.Selction" />
+        <activity android:name="com.dvb.electroniclibrary.subject" />
+        <activity android:name="com.dvb.electroniclibrary.downloadSubject" />
+        <activity android:name="com.dvb.electroniclibrary.manager_Edit" />
+        <activity android:name="com.dvb.electroniclibrary.Mpage" />
+        <activity android:name="com.dvb.electroniclibrary.Spage" />
+        <activity android:name="com.dvb.electroniclibrary.Add_Subject" />
+        <activity android:name="com.dvb.electroniclibrary.Register" />
+    </application>
+
+</manifest>

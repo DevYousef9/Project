@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_spage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dvb.electroniclibrary.Spage"
+    android:background="@color/colorPrimary">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text=""
+        android:ems="10"
+        android:layout_x="30dp"
+        android:layout_y="26dp"
+        android:id="@+id/sname"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:text="اسم الطالب"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="280dp"
+        android:layout_y="30dp"
+        android:id="@+id/Sname"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="القسم"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="311dp"
+        android:layout_y="71dp"
+        android:id="@+id/Section"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="الرقم الجامعي"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="270dp"
+        android:layout_y="108dp"
+        android:id="@+id/id"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_x="30dp"
+        android:layout_y="107dp"
+        android:id="@+id/ID"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:text="البريد الالكتروني"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="255dp"
+        android:layout_y="141dp"
+        android:id="@+id/mail"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:layout_x="30dp"
+        android:layout_y="143dp"
+        android:id="@+id/Mail"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:text="المستوى"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="301dp"
+        android:layout_y="179dp"
+        android:id="@+id/levels"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Button
+        android:text="بحث"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="236dp"
+        android:layout_y="330dp"
+        android:id="@+id/search"
+        android:background="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Button
+        android:text="تعديل"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="68dp"
+        android:layout_y="330dp"
+        android:id="@+id/Edit"
+        android:background="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/section"
+        android:layout_x="30dp"
+        android:layout_y="71dp"
+
+
+        />
+
+
+  <Spinner
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Levels"
+        android:layout_x="30dp"
+        android:layout_y="179dp"
+
+
+        />
+
+
+</AbsoluteLayout>

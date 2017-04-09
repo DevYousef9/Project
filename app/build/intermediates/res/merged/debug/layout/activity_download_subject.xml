@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_download_subject"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dvb.electroniclibrary.downloadSubject"
+    android:background="@color/colorPrimary">
+
+
+    <TextView
+        android:text="رمز المادة"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_x="50dp"
+        android:layout_y="80dp"
+        android:id="@+id/subject_cod" />
+
+    <Button
+        android:text="تحميل"
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:layout_x="140dp"
+        android:layout_y="356dp"
+        android:id="@+id/button_download" />
+
+    <TextView
+        android:text="إسم المادة"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_x="148dp"
+        android:layout_y="78dp"
+        android:id="@+id/Subject_name" />
+</AbsoluteLayout>

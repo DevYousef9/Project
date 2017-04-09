@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_visitor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dvb.electroniclibrary.Selction"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:text="الرجاء إختيار الكلية و القسم"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="30dp"
+        android:id="@+id/textv"
+        android:textSize="24sp"
+        android:textColor="@android:color/background_light" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/collage"
+        android:layout_below="@+id/textv"
+        android:layout_alignParentStart="true"
+        android:layout_x="9dp"
+        android:layout_y="100dp" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/section"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/levels"
+        android:layout_x="9dp"
+        android:layout_y="150dp" />
+
+    <Button
+        android:text="بحث"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/search"
+        android:layout_x="150dp"
+        android:layout_y="300dp" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/collage"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/section"
+        android:dropDownSelector="@android:color/background_light"
+        android:layout_y="200dp"
+        android:layout_x="9dp" />
+</AbsoluteLayout>

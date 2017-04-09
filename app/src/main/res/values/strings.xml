@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Electronic Library</string>
+    <string name="title_activity_slogin">SLogin</string>
+    <string name="title_activity_visitor">Visitor</string>
+    <string name="title_activity_visitor1">Visitor1</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="collage">
+        <item>علوم و هندسة الحاسب الآلي</item>
+        <item>الهندسة</item>
+        <item>إدارة الأعمال</item>
+    </string-array>
+    <string-array name="collage_Sience">
+        <item>علوم الحاسب الآلي</item>
+        <item>نضم معلومات</item>
+        <item>هندسة الكمبيوتر</item>
+    </string-array>
+    <string-array name="engennering">
+        <item>هندسة مكيانيكية</item>
+        <item>هندسة كهربائية</item>
+        <item>هندسة مدنية</item>
+    </string-array>
+    <string-array name="mangment">
+        <item>تمويل</item>
+        <item>اقتصاد</item>
+        <item>نضم معلومات ادارية</item>
+    </string-array>
+    <string-array name="levels">
+        <item>المستوى الأول</item>
+        <item>المستوى الثاني</item>
+        <item>المستوى الثالث</item>
+        <item>المستوى الرابع</item>
+        <item>المستوى الخامس</item>
+        <item>المستوى السادس</item>
+        <item>المستوى السابع</item>
+        <item>المستوى الثامن</item>
+    </string-array>
+    <string-array name="subject">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_39a6f494a16cb084ba263c5b755a8dac3bd4dd23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_54f2a597a84b1aa7dc4b1750334e9c044da50d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_296ece649c8db53be92080de20230ec326f4d814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_58615f54e2f3dc31683a6799213030c8005a63bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_77bdf2f13a99afb7059598a07a997692059f599e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_94dfdac9160110a502cbb1a705354d6bd77861b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_d27b2c722f4790350ee181b2334602a4bb172ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_513ba7d382ad7cbf646c2907aa445b99662587ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_4c9dcad4fead6db1bcaf4e2d4ecefa1ab4c14225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_689b1ea72a5d80bde652c6e1d2c15e83ee44332c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_c889c5529bc05ae5d3c5b25be4417dade67c57ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44457c83dc57dcd669e6963026225131bb20dd83">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_60ccfb16b8232d12d1a97136c711fbc26d1f4ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab3f6bf67f52da4d79af468225a1be8678a7702f">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_824cd08a22c1d7e421a81454ead2f1261293902d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_fadb15ddeb51c68c4dae1d0f6e3497858ba1acef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f568260900f070240c1ddd1b50a6ccbf6e162654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c51968bf53c84f3f92441e49093694dd440d3f59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta3_9be93455dac1ca0c3a90a665bec305fb8be4312a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4ea9431ace35109161833a4e5f0fa98510fd5684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_4bcb566000b5e3814752e3ff9ef167540e6f4926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_1321992239629dbe8a8fd1b000b85e4e00b93fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_5620dce501bb6326a1408e53dbf28e6df22f2b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\mohammad\Desktop\ElectronicLibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_96a5b1c2b3380765ce5d2db4938c8eef11d929ba\classes.dex" />
+    </item>
+
+</items>

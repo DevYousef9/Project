@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add__subject"
+    android:background="@color/colorPrimary"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dvb.electroniclibrary.Add_Subject">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Sub_name"
+        android:text="إسم المادة"
+        android:layout_x="280dp"
+        android:layout_y="65dp"
+        android:textColor="@android:color/background_light"
+        />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/SUB_N"
+        android:layout_x="60dp"
+        android:layout_y="65dp"
+        android:background="@android:color/background_light"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Sub_id"
+        android:text="رمز المادة"
+        android:layout_x="280dp"
+        android:layout_y="105dp"
+        android:textColor="@android:color/background_light"
+        />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/SUB_ID"
+        android:layout_x="60dp"
+        android:layout_y="105dp"
+        android:background="@android:color/background_light"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Sub_des"
+        android:text="توصيف المقرر"
+        android:layout_x="280dp"
+        android:layout_y="145dp"
+        android:textColor="@android:color/background_light"
+        />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:id="@+id/SUB_DES"
+        android:layout_x="60dp"
+        android:layout_y="145dp"
+        android:background="@android:color/background_light"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/SUB_B"
+        android:layout_x="150dp"
+        android:layout_y="400dp"
+        android:text="تأكيد"
+        />
+
+
+</AbsoluteLayout>
